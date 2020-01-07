@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Kiklos
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Kiklos\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
-comment1.params=coord_x\ coord_y\ idShape
-comment1.target=Kiklos(int,\ int,\ java.lang.String)
-comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Kiklos\r\n
-comment2.params=style
-comment2.target=void\ drawShapeOnTile(java.lang.String)
-numComments=3
