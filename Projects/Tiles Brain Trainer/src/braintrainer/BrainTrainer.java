@@ -3,12 +3,12 @@ package braintrainer;
 import braintrainer.gui.IntroMenu_GUI;
 
 /**
- * Thanasis Grammatikas icsd
+ * Ziozas Georgios
  * 
  */
 public class BrainTrainer {
 
-    //main runs on INITIAL THREAD , SWING-UTILS run on EDT , GAME LOOP runs on the custom thread
+    //main runs on INITIAL THREAD , SWING-UTILS run on EDT 
     public static void main(String[] args) {
         System.setProperty("swing.defaultlaf", "com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel");
         javax.swing.SwingUtilities.invokeLater(() -> {
@@ -19,4 +19,3 @@ public class BrainTrainer {
 
 }
 
-//anafora ++
