@@ -211,7 +211,7 @@ public final class MainMenu_GUI  {
 
     //Method actionPerformed for about_button
     private void about(ActionEvent evt) {
-        String infoMessage = "created by sotiris tsoulos icsd13190 ";
+        String infoMessage = "created by ziozas georgios";
         JOptionPane.showMessageDialog(null, infoMessage, "About", JOptionPane.INFORMATION_MESSAGE);
     }
 
