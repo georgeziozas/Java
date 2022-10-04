@@ -1,0 +1,56 @@
+thanasisGram : EASY
+icsd : EASY
+test : HARD
+test2 : HARD
+test3 : HARD
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+gg : EASY
+aa : MEDIUM
+Provide username : HARD
+GG : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : MEDIUM
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : MEDIUM
+Provide username : EASY
+Provide username : MEDIUM
+Provide username : EASY
+sfsf : EASY
+aad : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : EASY
+Provide username : HARD
+sotiris : EASY
+Provide username : EASY
+Provide username : MEDIUM
